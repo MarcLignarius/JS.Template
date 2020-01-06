@@ -7,6 +7,15 @@ body {
     margin: 0 0 100px;
 }
 
+a {
+    color: rgb(90, 90, 90);
+}
+
+a:hover {
+    color: rgb(90, 90, 90);
+    text-decoration: none;
+}
+
 footer {
     background-color: rgb(233, 236, 239);
     position: absolute;
